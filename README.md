@@ -1,6 +1,9 @@
-im eating cookies
+<div align="left">
 
-also some stuff bout languages :
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiadsCode&theme=default)
+
+</div>
+
 <div align="left">
 
 ![my statistics](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KiadsCode&theme=github) 
