@@ -8,5 +8,5 @@ also some stuff bout languages :
 </div>
 
 <div align="left">
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiadsCode&theme=default)
+![my statistics](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiadsCode&theme=default)
 </div>
