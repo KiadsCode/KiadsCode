@@ -9,6 +9,6 @@ also some stuff bout languages :
 
 <div align="left">
   
-![my statistics](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiadsCode&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiadsCode&theme=default)
 
 </div>
